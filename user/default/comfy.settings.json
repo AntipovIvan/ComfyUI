@@ -1,4 +1,7 @@
 {
     "Comfy.InstalledVersion": "1.25.9",
-    "Comfy.TutorialCompleted": true
+    "Comfy.TutorialCompleted": true,
+    "Comfy.ColorPalette": "dark",
+    "Comfy.DevMode": true,
+    "Comfy.Node.ShowDeprecated": true
 }
