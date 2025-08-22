@@ -21143,16 +21143,6 @@
             "title": "ComfyUIFlexiLoRALoader"
         },
         {
-            "author": "zhilemann",
-            "description": "nodes for nightly moondream2 VLM inference\nsupports only captioning and visual queries at the moment",
-            "files": [
-                "https://github.com/zhilemann/ComfyUI-moondream2"
-            ],
-            "install_type": "git-clone",
-            "reference": "https://github.com/zhilemann/ComfyUI-moondream2",
-            "title": "ComfyUI-moondream2"
-        },
-        {
             "author": "cherninlab",
             "description": "This custom node allows you to generate logo images using Google Fonts.",
             "files": [
@@ -24560,6 +24550,16 @@
             "title": "ComfyUI_Model_Cache"
         },
         {
+            "author": "infinigence",
+            "description": "NODES: DrawTextNode, ...",
+            "files": [
+                "https://github.com/infinigence/ComfyUI-Infinigence-Nodes"
+            ],
+            "install_type": "git-clone",
+            "reference": "https://github.com/infinigence/ComfyUI-Infinigence-Nodes",
+            "title": "ComfyUI-Infinigence-Nodes"
+        },
+        {
             "author": "zaheenrahman",
             "description": "A custom node for ComfyUI that performs color correction on clothing in face-swapped images. This node helps maintain the original clothing color when using face swap tools, addressing common color shifts that occur during the face swap process.",
             "files": [
@@ -26679,6 +26679,16 @@
             "install_type": "git-clone",
             "reference": "https://github.com/lihaoyun6/ComfyUI-BlindWatermark",
             "title": "ComfyUI-BlindWatermark"
+        },
+        {
+            "author": "lihaoyun6",
+            "description": "Enhance your prompts using the Qwen LLM to align the behavior and capabilities of the Qwen-Image/Edit online version.",
+            "files": [
+                "https://github.com/lihaoyun6/ComfyUI-QwenPromptRewriter"
+            ],
+            "install_type": "git-clone",
+            "reference": "https://github.com/lihaoyun6/ComfyUI-QwenPromptRewriter",
+            "title": "Comfyui-QwenPromptRewriter"
         },
         {
             "author": "northumber",
@@ -31347,6 +31357,46 @@
             "install_type": "git-clone",
             "reference": "https://github.com/Onionman61/ComfyUI-ModelScope-Kontext",
             "title": "ComfyUI ModelScope Kontext API Node"
+        },
+        {
+            "author": "svntax",
+            "description": "A ComfyUI custom node for the [a/Retro Diffusion API](https://retrodiffusion.ai/)",
+            "files": [
+                "https://github.com/svntax/ComfyUI-RetroDiffusion-API-Node"
+            ],
+            "install_type": "git-clone",
+            "reference": "https://github.com/svntax/ComfyUI-RetroDiffusion-API-Node",
+            "title": "ComfyUI-RetroDiffusion-API-Node"
+        },
+        {
+            "author": "chyer",
+            "description": "A comprehensive toolset of ComfyUI custom nodes for latent generation, image processing, and workflow utilities",
+            "files": [
+                "https://github.com/chyer/Chye-ComfyUI-Toolset"
+            ],
+            "install_type": "git-clone",
+            "reference": "https://github.com/chyer/Chye-ComfyUI-Toolset",
+            "title": "Chye ComfyUI Toolset"
+        },
+        {
+            "author": "bhvbhushan",
+            "description": "Advanced LoRA loader with per-block weight control for fine-grained influence over different model layers in ComfyUI",
+            "files": [
+                "https://github.com/bhvbhushan/ComfyUI-LoRABlockWeight"
+            ],
+            "install_type": "git-clone",
+            "reference": "https://github.com/bhvbhushan/ComfyUI-LoRABlockWeight",
+            "title": "ComfyUI LoRA Block Weight Loader"
+        },
+        {
+            "author": "lucasgattas",
+            "description": "Tiled regional prompting + tiled VAE decode with seam-free blending for ComfyUI",
+            "files": [
+                "https://github.com/lucasgattas/comfyui-egregora-tiled"
+            ],
+            "install_type": "git-clone",
+            "reference": "https://github.com/lucasgattas/comfyui-egregora-tiled",
+            "title": "comfyui-egregora-tiled"
         },
         {
             "author": "Ser-Hilary",
