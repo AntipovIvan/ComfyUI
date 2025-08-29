@@ -64,6 +64,11 @@ Put your VAE in: models/vae
 ```cd custom_nodes/```<br/>
 ```git clone https://github.com/ltdrdata/ComfyUI-Manager comfyui-manager```
 
+Before installing anything do this:
+
+```python -m venv comfyui```<br/>
+```source ./comfyui/bin/activate```
+
 ### AMD GPUs (Linux only)
 AMD users can install rocm and pytorch with pip if you don't have it already installed, this is the command to install the stable version:
 
